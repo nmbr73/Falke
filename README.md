@@ -6,7 +6,6 @@ Need some material to play with tracking, stabilization, colors, and all that go
 
 Give it a try by using the shots in this repository (fork and clone or just [download the ZIP file](https://github.com/nmbr73/Falke/archive/refs/tags/v1.0.zip) if you are not comfortable with Git). Let me know the YouTube URL of the result so I can add it here (or add it yourself by submitting a pull request).
 
-*Side note on the CC-BY-SA: Don't overdo it - no need to 'burn in' any attribution into your video (sure, you can do so - but it's not a must). Put a link into your video description and everything is fine.*
 
 # Contributions
 ## nmbr73
