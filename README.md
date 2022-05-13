@@ -8,6 +8,7 @@ Give it a try by using the shots in this repository (fork and clone or just [dow
 
 
 # Contributions
+
 ## nmbr73
 
 This is my own - very simple - version created in DaVinci Resolve. No stabilization, no Fx - only some zoom and a little bit of 'Light Rays' at the end. But already pretty nice, isn't it? Any idea how to improve it?!? Show us how much better it can be done!
@@ -26,6 +27,6 @@ A very helpful (German) tutorial by [MeinVideoStudio](https://www.youtube.com/c/
 
 # License
 
-Shared under CC-BY-SA. See [LICENSE](LICENSE). I'm not a lawyer, but I guess this one should be pretty relaxed?!? And for the attribution there is no need to overdo it. Put for example a link into your video description, an info box, or wherever you want and everything is fine.
+Shared under CC-BY-SA. See [LICENSE](LICENSE) for more information. I'm not a lawyer, but I guess this one should be pretty relaxed?!? And for the attribution there is no need to overdo it. Put for example a link into your video description, an info box, or wherever you want and everything is fine.
 
-But you must note that logos, models, names, etc. related to this material (e.g. LEGO®, Star Wars™, Millennium Falcon™) are registered trademarks of the respective copyright owners and as such not covered of this license.
+But you must note that logos, models, names, etc. related to this material (e.g. LEGO®, Star Wars™, Millennium Falcon™) are registered trademarks of the respective copyright owners and as such are not covered of this license.
